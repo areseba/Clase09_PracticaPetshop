@@ -41,7 +41,79 @@
 /* main */
 
 .bienvenida {
-  margin-top: 50px;
-  padding: 20px;
+  margin-top: 30px;
   text-align: center;
 }
+
+.imagen-plato{
+  background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 409px;
+}
+
+.comederos {
+text-align: center;
+padding-top: 30px;
+}
+
+.comederos2 {
+  text-align: center;
+  padding-top: 30px;
+  color: #ffffff;
+  }
+
+  .color-comedores {
+  background-color: #f0a83e;
+  }
+
+  .producto {
+    color: #3c2313;
+    padding-top: 30px;
+  }
+
+  .p {
+    padding-top: 30px;
+  }
+
+  .cuerpo {
+    background-color: antiquewhite;
+  
+  }
+
+  .p1 {
+    color: #f0a83e;
+  }
+
+  .comunicacion {
+    background-color: #3c2313;  
+  }
+
+  .p2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .p3{
+    font-size: 10px;
+    color: #8a8787;
+  }
+
+  .logo-inferior {
+    font-weight: bold;
+    color: #f0a83e;
+    font-size: 20px;
+  }
+
+  .texto-logo-inferior {
+    color: #ffffff;
+  }
+
+  .pie-pagina {
+    background-color: #f0a83e;
+    color: #ffffff;
+    margin-top: 20px;
+    text-align: center;
+  }
